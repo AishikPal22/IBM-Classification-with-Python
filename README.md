@@ -33,4 +33,5 @@ Density-Based Clustering
 - Collaborative Filtering
 
 This course is part of the 'IBM Data Science Professional Certificate'
+
 ![IBM](https://i.imgur.com/j6yW3WS.png)
