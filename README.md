@@ -2,13 +2,11 @@
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
 
-![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
-#### Instructors: Saeed Aghabozorgi
-
 ## Course Description
 
-You'll learn about Supervised vs Unsupervised Learning, look into how Statistical Modeling relates to Machine Learning, and do a comparison of each.
-Look at real-life examples of Machine Learning and how it affects society in ways you may not have guessed!
+In this notebook we try to practice all the classification algorithms that we have learned in this course.
+
+We load a dataset using Pandas library, and apply the following algorithms, and find the best one for this specific dataset by accuracy evaluation methods.
 
 ## Topics include
 
